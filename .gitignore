@@ -6,5 +6,9 @@
 *.sublime-workspace
 
 # Compiled binaries
-broker-service/brokerApp
 front-end/frontApp
+broker-service/brokerApp
+authentication-service/authApp
+
+# Database data
+project/db-data/
